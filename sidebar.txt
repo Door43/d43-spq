@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spq:home|Door43 (spq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spq|d43-spq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spq/archive/master.zip|d43-spq.zip]]
+
+**Recent Changes**
+{{changes>ns = spq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spq|Ethnologue data]]
+
